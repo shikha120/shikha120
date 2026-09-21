@@ -44,6 +44,9 @@ I enjoy building responsive, user-friendly web applications and continuously imp
 - SOQL
 - LWC
 
+### ☁️ Cloud
+- AWS Fundamentals
+  
 ### Tools
 - Git & GitHub
 - VS Code
@@ -68,6 +71,7 @@ A React-based frontend for a car rental booking platform developed as part of my
 
 ## 📚 Currently Learning
 
+- AWS fundamentals
 - Advanced React.js
 - JavaScript
 - Frontend best practices
@@ -79,6 +83,7 @@ A React-based frontend for a car rental booking platform developed as part of my
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/deepshikha-bankar12)
 - 🐙 [GitHub](https://github.com/shikha120)
+- ☁️ [Salesforce Trailhead](https://www.salesforce.com/trailblazer/deepshikhabankar)
 
 ---
 
